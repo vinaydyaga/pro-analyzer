@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+requests
+beautifulsoup4
+pandas
+langchain
+langchain-community
+langchain-ollama
+sqlalchemy
