@@ -2,7 +2,7 @@
 
 A powerful Streamlit-based web app that scrapes the top 5 brands for any product from Amazon India, stores them in a MySQL database, and allows you to analyze, visualize, and interact with the data using a large language model (LLM).
 
-![streamlit demo](https://github.com/vinaydyaga/pro-analyser/assets/banner.jpg) <!-- Optional image -->
+![streamlit demo](https://github.com/vinaydyaga/pro-analyzer/assets/banner.jpg) <!-- Optional image -->
 
 ---
 
@@ -27,7 +27,7 @@ Interactive and professional frontend with charts, progress bars, and data valid
 
 ## 🖼️ App Preview
 
-![preview](https://github.com/vinaydyaga/pro-analyser/assets/preview.gif) <!-- Optional GIF -->
+![preview](https://github.com/vinaydyaga/pro-analyzer/assets/preview.gif) <!-- Optional GIF -->
 
 ---
 
